@@ -1,3 +1,5 @@
+# Source code has no comments. To be included in future release. Currently this code is for private use only.
+
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
 import tkinter
